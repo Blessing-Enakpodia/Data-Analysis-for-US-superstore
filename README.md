@@ -13,9 +13,6 @@ For the effective execution of the project and to gain insight to aid informed b
 # Dataset
 The dataset consists of 20 columns and 9994 rows. 
 
-# Raw Dataset
-![](image101.png)
-
 # Data Cleaning
 To clean the data, the first step involved checking for duplicates and blanks, which were not found. Next, the date column was formatted as "date," and efforts were made to ensure uniformity in the date format throughout the dataset. 
 
@@ -36,9 +33,28 @@ The following business questions would be answered in order to gain the required
 # Data Analysis
 The entirety of this analysis was done using the pivot table.
 I started off my analysis by comparing the sales and profit growth rate across the years. The previous year, 2017 generated more sales and profit compared to other years. 
-![](image103.png)  ![](image103.0.png)
+![](image103.png)         ![](image103.0.png)
 
 1. What is the total sales and profit per category for the business year?
-![](image007.png)
+   
+![](image104.png)
 
-  
+2. Which quater in 2017 had the highest sales?
+   
+![](image105.png)
+
+3. Which states returned the least sales in the business year?
+   
+![](image106.png)
+
+4. Which segment contributes the most to the business revenue in the business year?
+
+![](image107.png)
+
+5. Which month has the highest orders?
+   
+![](image108.png)
+   
+6. What is the sales and profit growth across the years?
+   
+![](image103.png)
