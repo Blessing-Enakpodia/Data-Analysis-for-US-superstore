@@ -14,13 +14,13 @@ For the effective execution of the project and to gain insight to aid informed b
 The dataset consists of 20 columns and 9994 rows. 
 
 # Raw Dataset
-(Insert picture)
+![](image101.png)
 
 # Data Cleaning
 To clean the data, the first step involved checking for duplicates and blanks, which were not found. Next, the date column was formatted as "date," and efforts were made to ensure uniformity in the date format throughout the dataset. 
 
 # Cleaned Dataset
-(IMAGE)
+![](image102.png)
 
 # Problem Statement
 To prepare for the upcoming business year, the Manager seeks comprehensive insights into the sales and profit performance of the previous year. The goal is to identify areas requiring improvement to enhance sales and profits in the coming year. The analysis will focus on key aspects such as customer segments, sales per quater,, months, products, and regions to provide valuable recommendations for strategic decision-making. By addressing these areas, the company aims to boost its overall performance and achieve greater success in the new business year.
@@ -36,9 +36,9 @@ The following business questions would be answered in order to gain the required
 # Data Analysis
 The entirety of this analysis was done using the pivot table.
 I started off my analysis by comparing the sales and profit growth rate across the years. The previous year, 2017 generated more sales and profit compared to other years. 
-IMAGEEE 
+![](image103.png)  ![](image103.0.png)
 
 1. What is the total sales and profit per category for the business year?
-2. 
+![](image007.png)
 
   
