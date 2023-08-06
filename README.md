@@ -36,7 +36,7 @@ The following business questions would be answered in order to gain the required
 *The entirety of this analysis was done using the pivot table.*
 
 To commence my analysis, I first compared the growth rates of sales and profit across different years. Notably, the previous year, 2017, outperformed other years in terms of both sales and profit. Monitoring these key performance indicators (KPIs) provides valuable insights into the progress of sales and profit over time. By identifying areas for improvement and implementing necessary adjustments, the goal is to ensure that the upcoming year surpasses previous years, fostering successful growth and expanding the business.
-
+:-------------------: | :-------------------------:
 ![](image103.png)            ![](image103.0.png)
 
 Subsequently, I proceeded to address the aforementioned business questions, aiming to obtain valuable insights that would pave the way for providing strategic recommendations. These insights are essential for making informed decisions that will ultimately enhance the overall performance of the business.
