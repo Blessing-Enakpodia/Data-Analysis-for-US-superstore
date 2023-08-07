@@ -25,7 +25,7 @@ To prepare for the upcoming business year, the Manager seeks comprehensive insig
 
 The following business questions would be answered in order to gain the required insights;
 
-1. What is the total sales and profit per category for the business year?
+1. What is the total sales and profit per category for the business year and what is the monthly order frequency of each category?
 2. Which quarter in 2017 had the highest sales?
 3. Which states returned the least sales in the business year?
 4. Which segment contributes the most to the business revenue in the business year?
@@ -41,13 +41,13 @@ To commence my analysis, I first compared the growth rates of sales and profit a
 
 Subsequently, I proceeded to address the aforementioned business questions, aiming to obtain valuable insights that would pave the way for providing strategic recommendations. These insights are essential for making informed decisions that will ultimately enhance the overall performance of the business.
 
-# 1. What is the total sales and profit per category for the business year and what is the monthly order frequency of each category?
+*1. What is the total sales and profit per category for the business year and what is the monthly order frequency of each category?*
    
 ![](image104.png)       ![](image110.png)
 
 This insight holds significant importance in determining the category that generates the highest revenue for the company and understanding customer preferences. According to the charts, the *technology* category emerges as the top revenue generator. On the other hand, the *office supplies* category demonstrates strong popularity among customers, evidenced by its consistent and notably higher order frequency, surpassing that of the technology category by over three times. Understanding these customer preferences and demand patterns allows the business to tailor marketing campaigns and adjust inventory levels accordingly. By aligning with customer needs and attracting potential buyers, the business can enhance customer satisfaction, drive increased sales, and ultimately boost profitability.
 
-# 2. Which quarter in 2017 had the highest sales?
+*2. Which quarter in 2017 had the highest sales?*
    
 ![](image105.png)
 
@@ -56,7 +56,7 @@ According to the chart above, sales exhibit a consistent increase as the year pr
 
 Understanding the sales trends and the dominance of the fourth quarter allows the business to capitalize on this high-demand period effectively. By aligning strategies and resources to meet customer needs during this time, the company can maximize profitability and ensure the most successful outcome for the entire year.
 
-# 3. Which states returned the least sales in the business year?
+*3. Which states returned the least sales in the business year?*
    
 ![](image106.png)
 
@@ -64,7 +64,7 @@ The insight into states that generated the least sales is crucial for identifyin
 This analysis will aid in channeling funds to states that demonstrate better sales performance, thereby optimizing revenue generation and profitability for the business. Ultimately, making informed decisions based on this insight will drive growth and success by focusing efforts on regions with higher sales potential and aligning the company's resources with the most promising opportunities.
 The chart above shows the least 5 performing states per sale. 
 
-# 4. Which segment contributes the most to the business revenue in the business year?
+*4. Which segment contributes the most to the business revenue in the business year?*
 
 ![](image107.png)
 
@@ -72,7 +72,7 @@ This analysis helps the business identify the segment that generates the most re
 
 According to the chart, the consumer segment emerges as the top revenue contributor, accounting for nearly 50 percent (45%) of the total revenue.
 
-# 5. Which month has the highest orders?
+*5. Which month has the highest orders?*
    
 ![](image108.png)
 
