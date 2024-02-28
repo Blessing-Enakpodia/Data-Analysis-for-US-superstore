@@ -1,7 +1,7 @@
 # Data-Analysis-for-US-superstore
 
 # Introduction
-This is the capstone Excel project that marks the end of the Excel training in the Data Analysis Training cohort 3 by Chinonso Promise. This project involves understanding and answering business questions, data cleaning, data analysis, and data visualisation and reports.
+This project involves understanding and answering business questions, data cleaning, data analysis, and data visualisation and reports using Microsoft Excel.
 
 # Skills Demonstrated
 For the effective execution of the project and to gain insight to aid informed business decision-making, the following skills were demonstrated
@@ -79,5 +79,5 @@ According to the chart, the consumer segment emerges as the top revenue contribu
 This insight provides valuable information for making informed decisions, developing strategies, enhancing customer experience, and maximizing sales performance and revenue generation. By leveraging the insight effectively, the business can better cater to customer demands, optimise operations and drive overall success.
 According to the chart, the month of December slightly surpasses October and November, making it the month with the highest order while February is the month with the least orders. 
 
-# Recommendations
+
 
