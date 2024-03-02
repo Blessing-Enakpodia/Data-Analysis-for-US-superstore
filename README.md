@@ -1,5 +1,7 @@
 # Data-Analysis-for-US-superstore
 
+  ![](image100.png)
+
 # Introduction
 This project involves understanding and answering business questions, data cleaning, data analysis, and data visualisation and reports using Microsoft Excel.
 
